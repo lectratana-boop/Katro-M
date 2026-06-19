@@ -1,0 +1,6 @@
+{
+  "name": "Katro Madagascar",
+  "description": "Un jeu de Katro traditionnel malgache moderne et fidèle à la tradition, jouable entièrement hors ligne avec un style bois sculpté, des statistiques et un tutoriel bilingue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
